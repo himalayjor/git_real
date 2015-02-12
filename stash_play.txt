@@ -1,0 +1,8 @@
+git stashed files only which git know abt
+
+first it was untracked file
+
+After we add do: git add --all
+It goes to staging area
+
+After we modify file, it goes to unstaged area// git still keeps track of file
